@@ -48,6 +48,7 @@ But this doesn't mean i will be rewarded a chocolate of toffie
 On 10th of January 2023 two of their website were fully 
 patched. 
 I requested Reyaz sb from my end to disclose the security issue but they refused and said
+
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/7f7b412e-8acf-42c7-8fd4-e35a27060245)
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/f19f4405-174f-4169-88e7-822d7507053d)
 
