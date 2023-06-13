@@ -55,6 +55,9 @@ I requested Reyaz sb from my end to disclose the security issue but they refused
 A few days later I was able to break into another website that gave me access to the whole admin panel of JKSSB leading me to access to more than 801626 Personal  information of JKSSB Aspirants that includes Phone  number, Full name , Email id and password. I reported the vulnerability and the issue was patched.
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/281654bb-ddbf-497e-a1bd-753d95bf0b6a)
 
+
+
+
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/664682ae-e386-44f6-b711-99e61d346c12)
 
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/75d325f6-6789-4626-ba2b-6e9fca30a88a)
