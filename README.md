@@ -52,10 +52,14 @@ I requested Reyaz sb from my end to disclose the security issue but they refused
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/f19f4405-174f-4169-88e7-822d7507053d)
 
 # Another Website
-A few days later I was able to break into another website that gave me access to the whole admin panel of JKSSB leading me to access to more than 800,000 Personal  information of JKSSB Aspirants that includes Phone  number, Full name , Email id and password. I reported the vulnerability and the issue was patched.
+A few days later I was able to break into another website that gave me access to the whole admin panel of JKSSB leading me to access to more than 801626 Personal  information of JKSSB Aspirants that includes Phone  number, Full name , Email id and password. I reported the vulnerability and the issue was patched.
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/281654bb-ddbf-497e-a1bd-753d95bf0b6a)
+
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/664682ae-e386-44f6-b711-99e61d346c12)
 
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/75d325f6-6789-4626-ba2b-6e9fca30a88a)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/5393e39c-9232-43c4-a0b9-913408f90caf)
+
 
 # Visiting JKSSB
 On February 17, I went there and I met Abdul Raqib Bhat  (Jr. KAS ) Undersecretary JKSSB and shared my concerns. I also suggested him Full cybersecurity assessment. He  said that I will share these things with Reyaz Sb and we  will get back to you within days.
