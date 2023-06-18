@@ -46,17 +46,19 @@ up by anyone.
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/f3cb0ef8-9172-452f-bd60-dc4b3509d4ad)
 
 #  Ist Email to JKSSB
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/1e22bf7d-d337-4186-8475-699aea78742a)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/de172bb1-a664-404c-ae8d-9155cd73b5ec)
 
 # Second Email To JKSSB
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/92278017-d3bb-4164-a58b-a294e3c11ea7)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/322ffa64-deb3-4e3c-9797-0f042549bbb3)
 
 Also i dropped a thread on twitter and indirectly tried to convery message but no response. In response to this i recieved a mail from a scammer from jammu pretending to be from JKCID.
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/fd0f5f21-93b7-4679-8a2c-c835db46150e)
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/ab296129-01dc-4b23-80f1-780f31f0f3a6)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/c64a5068-3652-4484-81a6-6870c7cad5b8)
+
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/91a215bb-d804-4097-a55a-4b47f7a3ab94)
+
 
 # Another mail to JKSSB
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/0e6c77c2-fc48-4e93-af41-d25e895721ef)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/1166c3e5-0639-4d38-b9d8-b5d9da8a0d2c)
 
 # Finally I was able to get in contact with an ex-board member of JKSSB Mr. Ashiq Hussain Lily And I shared the issue with him and he further conveyed the issue to JKSSB.
 
