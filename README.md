@@ -35,10 +35,12 @@ In order to verify the validity of my statements, I have provided several pieces
 assistance on HackerOne. Before filing it I tried to contact JKSSB via phone but most of the
 numbers displayed on websites were invalid and phone to rest of the numbers were not picked 
 up by anyone.
-![image] (https://github.com/D3crypT0r/JKSSB/assets/66831571/476b01cd-de65-4075-8a7e-d385caa4f749)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/c9044d47-00ad-46cc-b65d-ed8de392e144)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/bcfda588-d5b8-4aea-83c8-3ae4ad7b028c)
+
 
 # HackerOne Validating My Claim
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/fc3de6d7-b733-4870-bf97-4623161be894)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/5ef12606-7e45-4519-a9f7-5fb81e429119)
 
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/f3cb0ef8-9172-452f-bd60-dc4b3509d4ad)
 
