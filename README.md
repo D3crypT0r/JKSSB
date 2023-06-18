@@ -103,14 +103,15 @@ A few days later I was able to break into another website that gave me access to
 1.![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/fb8d98f7-11d6-4f17-99b9-7cf493047f13)
 
 
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/9c562060-609e-4807-9358-19dfc94e7c2e)
+2. ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/9c562060-609e-4807-9358-19dfc94e7c2e)
 
 
 
-2![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/80049c9b-5a81-4d89-b233-e1c0cb20b1db)
+3. ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/80049c9b-5a81-4d89-b233-e1c0cb20b1db)
 
 
-2. ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/498d09c3-81b8-4fa2-97ce-9fe25d0d95d1)
+
+ 4. ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/498d09c3-81b8-4fa2-97ce-9fe25d0d95d1)
 
 
 
