@@ -35,7 +35,7 @@ In order to verify the validity of my statements, I have provided several pieces
 assistance on HackerOne. Before filing it I tried to contact JKSSB via phone but most of the
 numbers displayed on websites were invalid and phone to rest of the numbers were not picked 
 up by anyone.
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/476b01cd-de65-4075-8a7e-d385caa4f749)
+![image] (https://github.com/D3crypT0r/JKSSB/assets/66831571/476b01cd-de65-4075-8a7e-d385caa4f749)
 
 # HackerOne Validating My Claim
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/fc3de6d7-b733-4870-bf97-4623161be894)
