@@ -1,3 +1,32 @@
+Last & This year I ethically hacked multiple JKSSB websites & secured around 25 million data records that were vulnerable to data breach, Protecting the privacy & security of J&K Services Selection Board Aspirants.
+
+
+Over the course of last year and this year, I successfully secured their multiple websites, revealing alarming vulnerabilities in their online infrastructure.
+Controller Of Examinations JKSSB Mr. Reyaz Ahmad Malik(JKAS) who acted as the intermediary between me and the IT Team of JKSSB.  I was able to gain access to extensive databases containing a staggering of around 25 million records of JKSSB.
+Initially, I attempted to reach out to JKSSB through the phone numbers and email addresses provided on their official website, but unfortunately, they were unresponsive. It wasn't until January 2023, three months later, that I finally succeeded in establishing contact with JKSSB. Upon receiving a phone call from Controller Examinations JKSSB, he informed me that they are treating my claims with seriousness. He had a discussion with the JKSSB IT Team, who assured him that their systems are secure 😆. He extended an invitation for me to visit the JKSSB office, but unfortunately, I couldn't go there due to some unforeseen circumstances.
+To ensure the responsible disclosure of these security flaws, I submitted a total of five Vulnerability Reports to JKSSB, detailing the weaknesses and offering recommendations for improvement. However, the response from JKSSB officials, particularly Mr. Reyaz Ahmad Malik, the Controller Examinations of JKSSB, was initially positive and appreciative. They acknowledged my contribution and assured me that you will be suitably rewarded  in case your  concerns are found genuine and the  assertions are true.
+
+Contributing to JKSSB's Security Efforts, To ensure the rectification of these vulnerabilities, I diligently submitted five detailed vulnerability reports to JKSSB. In addition, another significant hack granted me complete control over the administrative panel of the JKSSB website, providing me access to a separate database containing over 800,000 records. These records included sensitive information such as phone numbers, email addresses, usernames, and passwords of JKSSB aspirants.
+The websites developed by JKSSB were found to have inadequate configurations, leaving them vulnerable to potential security breaches. During my basic fuzzing process on their website, I discovered that their AWS login credentials were exposed, highlighting the poor development practices employed by the board.
+
+Unfortunately, once they had obtained the necessary information and accomplished their objectives, they ceased all communication with me. Despite my attempts to engage Mr. Reyaz Ahmad Malik through numerous messages via WhatsApp, my concerns were blatantly ignored, leaving me feeling deceived and disregarded.
+To Discuss some concerns and issues like offering  full cybersecurity assessment on all their websites etc, I was welcomed to the JKSSB office on February 17, 2023, where I met Undersecretary Mr. Abdul Raqib Bhat (Jr. JKAS). He promised that they would address my concerns within days. However, it turned out to be a mere prank, as they failed to follow through on their promise, leaving me even more disillusioned.
+
+In an effort to escalate the matter and seek resolution, I lodged a grievance on the J&K LG Grievance Portal with all the requirements, My grievance was forwarded to the chairman, who then passed it on to Controller Examinations JKSSB, Mr. Reyaz Ahmad Malik, on April 17, 2023. Unfortunately, my grievance has remained unresolved for over a month, trapped in bureaucratic limbo.
+It is more important to remember all my reported vulnerabilities were fixed on 02 February 2023 and I was told to keep it confidential. From 17 February 2023 to now the concerned official hardly responded to me once.
+It is crucial to emphasize that the vulnerabilities I reported to JKSSB were of utmost criticality and categorized as Priority 1 (P1) vulnerabilities. According to BugCrowd Reward Policy, P1 vulnerabilities are typically rewarded with an average payout of $4000 to $5000. This speaks volumes about the severity and magnitude of the vulnerabilities I discovered within JKSSB's systems.
+Throughout my experience working with various companies and organizations, I have assisted almost 50 Organizations in securing their websites and other digital assets and earned bounties in lakhs. However, it is unfortunate to note that such incidents tend to occur more frequently when the vendor happens to be based in Kashmir. Those in the cybersecurity field are well aware that identifying vulnerabilities in systems requires immense dedication and effort. Hours upon hours are spent scrutinizing every detail to uncover even a single flaw. It is disheartening when someone invests so much time and energy into a specific task, only to see their efforts go in vain. Nevertheless, I take pride in knowing that I have safeguarded the personal information and privacy of lakhs and lakhs of people from Jammu & Kashmir. It is truly a significant accomplishment, serving the best interests of the people of J&K.
+
+It is disheartening to witness how JKSSB, an organization responsible for shaping the careers of countless individuals, displayed such negligence.  Disappointingly, rather than acknowledging the efforts and contributions of a responsible Kashmiri citizen and cybersecurity researcher who dedicated his skills to securing their IT system, the JKSSB officials opted to play a prank in return. This behavior demonstrates a lack of appreciation for the valuable assistance provided by a concerned individual aiming to protect their systems from potential threats.
+
+As this saga continues, it is my hope that JKSSB acknowledges from their end and provides the due recognition and rewards that were initially promised. Only then can the trust of the public be restored, ensuring a secure and reliable platform for aspiring candidates of JKSSB.
+
+https://d3crypt0r.live/
+https://www.facebook.com/SyedRizwanHilal
+
+In order to verify the validity of my statements, I have provided several pieces of evidence for your consideration.
+
+
 # JKSSB - Jammu And Kashmir Services Selection Board Aspirants
 
 # October 2022
@@ -24,28 +53,34 @@ Also i dropped a thread on twitter and indirectly tried to convery message but n
 # Another mail to JKSSB
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/0e6c77c2-fc48-4e93-af41-d25e895721ef)
 
-# Finally i was able to get in contact with ex-board member of JKSSB Mr. Ashiq Hussain Lily And i shared the issue with him and he further converyed issue to JKSSB.
+# Finally I was able to get in contact with an ex-board member of JKSSB Mr. Ashiq Hussain Lily And I shared the issue with him and he further conveyed the issue to JKSSB.
 
-Next day i recieved a phone call from an unknown person who later proved to be Mr. Reyaz Ahmad Malik (JKAS) Controller Of Examinations JKSSB.
+The next day i received a phone call from an unknown person who later proved to be Mr. Reyaz Ahmad Malik (JKAS) Controller Of Examinations JKSSB.
 
 
 # Refuting IT Team of JKSSB
 I sent a database sample to the Controller of Examinations JKSSB in order to refute the claim made by his IT team during our telephonic communication. Despite their assurance of system security, I wanted to provide concrete evidence to challenge their statement.
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/143ccb2a-6fc3-4672-a142-081a411b5a06)
 
+# Additional Sample of data
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/29e3c92b-a6a5-4a58-bc38-a4fa354cd25b)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/ee15efed-7d16-4f64-ade2-cea39fe6f955)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/9ab05244-d715-4032-8485-298c806831d6)
+
+
 # Acknowledging My Efforts - Controller Of Examinations JKSSB
-I was unoficially suggested to come to JKSSB Office but i didn't went there due to some issue.
+I was unofficially suggested to come to JKSSB Office but I didn't go there due to some issue.
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/ff773b82-96bb-4412-b444-be1d63502f56)
 
-Initially Reyaz Ahmad Malik appreciated my efforts and 
+Initially, Reyaz Ahmad Malik appreciated my efforts and 
 said "
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/5efba93b-941e-4117-9ddf-eb4b58b18d68)
 
-But this doesn't mean i will be rewarded a chocolate of toffie
+But this doesn't mean I will be rewarded a chocolate of toffee
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/250ececa-f140-4a81-927e-82c0d524e321)
 
 # Keeping The Issue Confidential.
-On 10th of January 2023 two of their website were fully  patched. 
+On the 10th of January 2023, two of their website were fully  patched. 
 I requested Reyaz sb from my end to disclose the security issue but they refused and said
 
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/7f7b412e-8acf-42c7-8fd4-e35a27060245)
