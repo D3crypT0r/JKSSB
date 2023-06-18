@@ -1,4 +1,4 @@
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/9336ad50-3989-4ae3-b2f8-7b2efc654317)Last & This year I ethically hacked multiple JKSSB websites & secured around 20 million data records that were vulnerable to data breach, Protecting the privacy & security of J&K Services Selection Board Aspirants.
+Last & This year I ethically hacked multiple JKSSB websites & secured around 20 million data records that were vulnerable to data breach, Protecting the privacy & security of J&K Services Selection Board Aspirants.
 
 
 Over the course of last year and this year, I successfully secured their multiple websites, revealing alarming vulnerabilities in their online infrastructure.
