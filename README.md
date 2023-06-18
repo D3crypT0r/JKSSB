@@ -39,6 +39,7 @@ up by anyone.
 
 # HackerOne Validating My Claim
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/fc3de6d7-b733-4870-bf97-4623161be894)
+
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/f3cb0ef8-9172-452f-bd60-dc4b3509d4ad)
 
 #  Ist Email to JKSSB
