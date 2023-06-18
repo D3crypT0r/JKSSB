@@ -107,9 +107,10 @@ A few days later I was able to break into another website that gave me access to
 
 
 
-2. ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/664682ae-e386-44f6-b711-99e61d346c12)
+2![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/80049c9b-5a81-4d89-b233-e1c0cb20b1db)
 
-3. ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/75d325f6-6789-4626-ba2b-6e9fca30a88a)
+
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/498d09c3-81b8-4fa2-97ce-9fe25d0d95d1)
 
 
 
