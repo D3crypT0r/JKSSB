@@ -1,4 +1,4 @@
-Last & This year I ethically hacked multiple JKSSB websites & secured around 20 million data records that were vulnerable to data breach, Protecting the privacy & security of J&K Services Selection Board Aspirants.
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/9336ad50-3989-4ae3-b2f8-7b2efc654317)Last & This year I ethically hacked multiple JKSSB websites & secured around 20 million data records that were vulnerable to data breach, Protecting the privacy & security of J&K Services Selection Board Aspirants.
 
 
 Over the course of last year and this year, I successfully secured their multiple websites, revealing alarming vulnerabilities in their online infrastructure.
@@ -65,9 +65,11 @@ I sent a database sample to the Controller of Examinations JKSSB in order to ref
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/143ccb2a-6fc3-4672-a142-081a411b5a06)
 
 # Additional Sample of data
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/29e3c92b-a6a5-4a58-bc38-a4fa354cd25b)
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/ee15efed-7d16-4f64-ade2-cea39fe6f955)
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/9ab05244-d715-4032-8485-298c806831d6)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/c8e1bde9-6a4d-432d-88d6-75f60fc30031)
+
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/814ea99e-a58b-401f-a4a2-5afbee711d63)
+
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/2acf1834-bfa2-400d-9692-8e8e5fabc5fc)
 
 
 # Acknowledging My Efforts - Controller Of Examinations JKSSB
