@@ -19,7 +19,7 @@ Throughout my experience working with various companies and organizations, I hav
 
 It is disheartening to witness how JKSSB, an organization responsible for shaping the careers of countless individuals, displayed such negligence.  Disappointingly, rather than acknowledging the efforts and contributions of a responsible Kashmiri citizen and cybersecurity researcher who dedicated his skills to securing their IT system, the JKSSB officials opted to play a prank in return. This behavior demonstrates a lack of appreciation for the valuable assistance provided by a concerned individual aiming to protect their systems from potential threats.
 
-As this saga continues, it is my hope that JKSSB acknowledges from their end and provides the due recognition and rewards that were initially promised. Only then can the trust of the public be restored, ensuring a secure and reliable platform for aspiring candidates of JKSSB.
+
 
 https://d3crypt0r.live/
 
@@ -104,11 +104,11 @@ A few days later I was able to break into another website that gave me access to
 
 
 # Visiting JKSSB
-On February 17, I went there and I met Abdul Raqib Bhat  (Jr. KAS ) Undersecretary JKSSB and shared my concerns. I also suggested him Full cybersecurity assessment. He  said that I will share these things with Reyaz Sb and we  will get back to you within days.
+On February 17, I went there and I met Abdul Raqib Bhat  (Jr. KAS ) Undersecretary JKSSB, and shared my concerns. I also suggested him Full cybersecurity assessment. He  said that I will share these things with Reyaz Sb and we  will get back to you within days.
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/7d07c68a-7942-4de9-ad87-64d248af1ee3)
 
 # Communication abruptly cut after 17-February-2023
-I made muntiple attempts to get the update from Mr. Reyaz Ahmad Malik but recieved no response.
+I made multiple attempts to get the update from Mr. Reyaz Ahmad Malik but received no response.
 
 # It's important to note that the assurance of a reward  was not given by a low-level employee or an IT  professional at JKSSB. Instead, it was promised by a  senior KAS officer, the Controller of Examination   JKSSB, who holds significant authority within the  organization. Is this the appropriate way to treat  youth who contribute  constructively?
 
