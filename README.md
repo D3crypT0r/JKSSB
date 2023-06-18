@@ -82,11 +82,11 @@ I sent a database sample to the Controller of Examinations JKSSB in order to ref
 
 # Acknowledging My Efforts - Controller Of Examinations JKSSB
 I was unofficially suggested to come to JKSSB Office but I didn't go there due to some issue.
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/ff773b82-96bb-4412-b444-be1d63502f56)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/c79eccb4-a137-4576-ab83-4edd31238757)
 
 Initially, Reyaz Ahmad Malik appreciated my efforts and 
 said "
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/5efba93b-941e-4117-9ddf-eb4b58b18d68)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/74f42041-a6fc-4eec-8b76-9ffb50c94627)
 
 But this doesn't mean I will be rewarded a chocolate of toffee
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/250ececa-f140-4a81-927e-82c0d524e321)
