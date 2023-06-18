@@ -67,7 +67,9 @@ The next day i received a phone call from an unknown person who later proved to 
 
 # Refuting IT Team of JKSSB
 I sent a database sample to the Controller of Examinations JKSSB in order to refute the claim made by his IT team during our telephonic communication. Despite their assurance of system security, I wanted to provide concrete evidence to challenge their statement.
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/143ccb2a-6fc3-4672-a142-081a411b5a06)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/55cedb9f-f214-4ae0-9e33-84716cd6b93f)
+
+![Uploading image.png…]()
 
 # Additional Sample of data
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/c8e1bde9-6a4d-432d-88d6-75f60fc30031)
