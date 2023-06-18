@@ -89,14 +89,14 @@ said "
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/74f42041-a6fc-4eec-8b76-9ffb50c94627)
 
 But this doesn't mean I will be rewarded a chocolate of toffee
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/250ececa-f140-4a81-927e-82c0d524e321)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/5a80c8d2-053b-4a54-9935-2e57d2b5c215)
 
 # Keeping The Issue Confidential.
 On the 10th of January 2023, two of their website were fully  patched. 
 I requested Reyaz sb from my end to disclose the security issue but they refused and said
 
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/7f7b412e-8acf-42c7-8fd4-e35a27060245)
-![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/f19f4405-174f-4169-88e7-822d7507053d)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/d4a61eb8-3bb9-4c1d-9b62-ed64b7153959)
+![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/2f5067e5-8c7b-4550-92b5-5ad1fc8c6ca4)
 
 # Another Website
 A few days later I was able to break into another website that gave me access to the whole admin panel of JKSSB leading me to access to more than 801626 Personal  information of JKSSB Aspirants that includes Phone  number, Full name , Email id and password. I reported the vulnerability and the issue was patched.
