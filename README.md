@@ -1,3 +1,7 @@
+# Disclaimer: The following account is based solely on factual information and evidence. No personal information of any JKSSB Aspirant or any sensitive/confidential information belonging to JKSSB is revealed. The purpose of this narrative is not to portray a negative image of JKSSB but rather to illustrate how I fell victim to a prank played by a senior JKSSB Official, who is undoubtedly an influential figure within the organization. Despite being aware of the considerable efforts I invested in securing JKSSB, he abruptly cut off communication with me once got their work done.
+
+
+
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/28c27a08-1eb3-47cc-b0c5-5657528b6117)
 
 Last & This year I ethically hacked multiple JKSSB websites & secured around 20 million data records that were vulnerable to data breach, Protecting the privacy & security of J&K Services Selection Board Aspirants.
