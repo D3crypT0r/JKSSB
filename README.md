@@ -90,7 +90,7 @@ Initially, Reyaz Ahmad Malik appreciated my efforts and
 said "
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/74f42041-a6fc-4eec-8b76-9ffb50c94627)
 
-But this doesn't mean I will be rewarded a chocolate of toffee
+But this doesn't mean I will be rewarded a chocolate or toffee
 ![image](https://github.com/D3crypT0r/JKSSB/assets/66831571/5a80c8d2-053b-4a54-9935-2e57d2b5c215)
 
 # Keeping The Issue Confidential.
