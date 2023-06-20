@@ -1,3 +1,9 @@
+# New Update - Clarification
+As I see a lot of people are trying to portray this issue in a negative way and are targeting JKSSB. As I already mentioned that it is my personal experience of becoming a victim of dishonesty and unprofessionalism. So in this connection, I have released a clarification on the issue.
+
+https://github.com/D3crypT0r/JKSSB/assets/66831571/bfc68aba-c62c-441d-88f0-07bfea85169a
+
+
 # Disclaimer: The following content is based solely on factual information and evidence. No personal information of any JKSSB Aspirant or any sensitive/confidential information belonging to JKSSB is revealed. The purpose of this narrative is not to portray a negative image of JKSSB but rather to illustrate how I fell victim to a prank played by a senior JKSSB Official, who is undoubtedly an influential figure within the organization. Despite being aware of the considerable efforts I invested in securing JKSSB, he abruptly cut off communication with me once got their work done. This issue is all about how i became victim of dishonesty and unprofessionalism 
 
 
